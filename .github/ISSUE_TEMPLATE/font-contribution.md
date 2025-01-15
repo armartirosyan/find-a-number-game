@@ -1,7 +1,7 @@
 ---
 name: Font Contribution
 about: Use this template to add new fonts to the application.
-title: "[FONT]"
+title: "[FONT] "
 labels: enhancement
 assignees: armartirosyan
 
