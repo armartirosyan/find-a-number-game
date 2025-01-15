@@ -1,0 +1,23 @@
+title: "Font Contribution: {{ font_name }}"
+
+body:
+  - type: textarea
+    name: "Font Name"
+    placeholder: "Enter the name of your font"
+    required: true
+  - type: textarea
+    name: "Description"
+    placeholder: "Optional: Briefly describe the font style (e.g., Handwritten, Serif, Monospace)"
+  - type: checks
+    name: "Image"
+    options:
+      - label: "Image attached showcasing numbers 0-9 in the font"
+        description: "Please ensure the image clearly displays each number."
+        required: true
+  - type: textarea
+    name: "License"
+    placeholder: "Specify the license under which you are releasing this font (e.g., MIT, Apache 2.0, GPL)"
+    required: true
+  - type: textarea
+    name: "Additional Notes"
+    placeholder: "Optional: Include any other relevant information"
