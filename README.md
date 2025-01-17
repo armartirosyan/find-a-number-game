@@ -1,1 +1,1 @@
-# find-a-number
+# FANG (Find a Number Game)
