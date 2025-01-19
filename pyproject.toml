@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "find-a-number"
+name = "find-a-number-game"
 version = "1.0.0"
 description = "Real life game for entire family"
 authors = ["Armen Martirosyan"]
@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.7"
 click = "^8.1.8"
+reportlab = "^4.2.5"
 
 [tool.poetry.scripts]
 fang = "find_a_number.cli:main"
