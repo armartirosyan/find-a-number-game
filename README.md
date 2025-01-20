@@ -1,7 +1,7 @@
 # F.A.N.G. (Find a Number Game)
 
 <p align="center" >
-  <img src="https://github.com/armartirosyan/find-a-number-game/blob/main/assets/fang_icon.png" style="width: 50%; height: 50%" />
+  <img src="https://github.com/armartirosyan/find-a-number-game/blob/main/assets/fang_icon.png" style="width: 25%; height: 25%" />
 </p>
 
 Find a number game (FANG) is a very fun game that can be played with friends and family. Rules and game setup are very simple.
